@@ -10,3 +10,6 @@ Custom nodes for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) for simple
    ```bash
    git clone https://github.com/thezveroboy/ComfyUI-lut.git
    ```
+
+## Code
+   Code for this node was taken from https://pastebin.com/XQyAeiGk
